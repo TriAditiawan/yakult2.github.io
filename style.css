@@ -113,4 +113,11 @@ footer {
     width: full;
     height: 300px;
   }
+  .galery-grid img {
+    display: block;
+    width: 100%;
+  }
+  .galery-grid img:hover {
+    transform: scale(1);
+  }
 }
